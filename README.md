@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.guoyaping.com/my-github-repos)
-* [世界，你好！](http://www.guoyaping.com/hello-solo)
+* [我在 GitHub 上的开源项目](http://www.guoyaping.com:8081/my-github-repos)
+* [世界，你好！](http://www.guoyaping.com:8081/hello-solo)
 
 
 
